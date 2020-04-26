@@ -2,7 +2,7 @@ flask
 flask_sqlalchemy
 redis
 pymongo
-gunicorn==19.3.0
+gunicorn==19.5.0
 humanize
 python_dateutil
 requests
